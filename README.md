@@ -1,5 +1,19 @@
 # Arduino + Python Password Manager  
 Small project made for ELEN30013, 2021
+
+## Arduino pin usage  
+Designed for and built on an Arduino Uno   
+
+Digital pins:
+- 2 = servo
+- 3 = buzzer
+- 4 to 9 = LCD  
+- 10 to 12 = RGB (red, green, blue)
+
+Analog pins:
+- A0 = Thermistor  
+- A1 = Photoresistor
+
 ## Setup  
 0. Ensure that:  
 - the Arduino is connected to the computer, and the code (pwtest.ino) has been uploaded to the board

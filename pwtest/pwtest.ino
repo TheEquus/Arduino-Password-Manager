@@ -2,8 +2,8 @@
 #include "pitches.h"
 #include <Servo.h> 
 
-#define TM_pin 13
-#define PR_pin A0
+#define TM_pin A0
+#define PR_pin A1
 
 const int servoPin = 2; 
 const int buzzer = 3; //buzzer to arduino pin 3
