@@ -1,5 +1,6 @@
 # Arduino + Python Password Manager  
-Small project made for ELEN30013, 2021
+Small project made for ELEN30013, 2021  
+Read all about the technical aspects [here](https://anniequus.com/posts/arduino-password-manager).
 
 ## Arduino pin usage  
 Designed for and built on an Arduino Uno   
